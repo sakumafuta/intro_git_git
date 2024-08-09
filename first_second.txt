@@ -1,5 +1,0 @@
-あいうえお
-kakikukeko
-サシスセソ
-・git add
-・git commit
